@@ -8,5 +8,4 @@
 This repository is a place for adding timestamps into C# Bootcamp lessons which has started in YouTube recently.
 
 **Lesson 1:** [C# Keywords and Input](https://www.youtube.com/watch?v=qG0I2NN2dNE)
-
-
+**Lesson 2:** [Control flow, array and string](https://www.youtube.com/watch?v=l8qhUB80NaA)
