@@ -4,5 +4,9 @@ Timecodes
 0:06:44 - Arrays: The Adam & Eve of Data Structures
 0:11:31 - For Loops: How to iterate through the elements of an array
 0:17:00 - Convert the pancakes recipe text to structured data
+0:24:12 - Equality comparison operator '=='
+0:24:48 - Chain conditions: IF // ELSE IF // ELSE
+0:27:38 - Value Types: Bool - store TRUE or FALSE
+0:28:59 - Logic operators: || (OR)
 1:06:40 - Test your knowledge: Kahoot!
 2:00:00 - QA
