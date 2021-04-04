@@ -11,6 +11,6 @@ Timecodes
 0:31:40 - String comparison: '.Equals' method
 0.45:42 - Combine the elements of an array to a single delimited string
 0.52:45 - Parsing numbers with a different format: Invariant Culture
-0:57:35 - QA: Difference between the Parse anc Convert.To methods
+0:57:35 - QA: Difference between the Parse and Convert.To methods
 1:06:40 - Test your knowledge: Kahoot!
 2:00:00 - QA
