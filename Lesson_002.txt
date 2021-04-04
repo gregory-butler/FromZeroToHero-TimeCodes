@@ -1,5 +1,5 @@
 Timecodes 
-0:00:00 - Intro 
+0:00:00 - Intro: Previous lesson summary 
 0:01:13 - Let's cook some pancakes!
 0:06:44 - Arrays: The Adam & Eve of Data Structures
 0:11:31 - For Loops: How to iterate through the elements of an array
