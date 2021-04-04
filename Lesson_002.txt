@@ -1,4 +1,8 @@
 Timecodes 
 0:00:00 - Intro 
-1:00:00 - Test your knowledge: Kahoot!
+0:01:13 - Let's cook some pancakes!
+0:06:44 - Arrays: The Adam & Eve of Data Structures
+0:11:31 - For Loops: How to iterate through the elements of an array
+0:17:00 - Convert the pancakes recipe text to structured data
+1:06:40 - Test your knowledge: Kahoot!
 2:00:00 - QA
