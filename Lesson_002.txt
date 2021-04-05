@@ -2,7 +2,7 @@ Timecodes
 0:00:00 - Intro: Previous lesson summary 
 0:01:13 - Let's cook some pancakes!
 0:06:44 - Arrays: The Adam & Eve of Data Structures
-0:11:31 - For Loops: How to iterate through the elements of an array
+0:11:31 - Loops: FOR - How to iterate through the elements of an array
 0:17:00 - Convert the pancakes recipe text to structured data
 0:24:12 - Equality comparison operator '=='
 0:24:48 - Chain conditions: IF // ELSE IF // ELSE
@@ -11,6 +11,12 @@ Timecodes
 0:31:40 - String comparison: '.Equals' method
 0.45:42 - Combine the elements of an array to a single delimited string
 0.52:45 - Parsing numbers with a different format: Invariant Culture
-0:57:35 - QA: Difference between the Parse and Convert.To methods
-1:06:40 - Test your knowledge: Kahoot!
+0:57:35 - QA: Difference between the Parse, TryParse and Convert.To methods
+1:02:29 - Arrays: emtpy and uninitialized.
+1:06:40 - Test your knowledge in a fun way: Kahoot!
+1:30:20 - Kahoot! winners
+1:31:32 - Loops: WHILE
+1:33:13 - Code Refactor: make code easier to undestand
+1:41:11 - Lesson summary 
+1:45:11 - QA Live on Discord
 2:00:00 - The End
