@@ -1,16 +1,18 @@
 Timecodes 
 0:00:00 - Intro: Previous lesson summary
-0:00:00 - Solution plan
-0:00:00 - Description of a file
-0:00:00 - Read the contents of a text file: File.ReadAllText
-0:00:00 - Replicate File.ReadAllText functionality
-0:00:00 - Write data to a text file: File.WriteAllText
-0:00:00 - Replicate File.WriteAllText functionality
-0:00:00 - Dispose managed resources
-0:00:00 - Validation logic: TryParse Pattern
-0:00:00 - Get a second return value from a function: 'out' keyword
-0:00:00 - Error handling: 'try catch' & exceptions
-0:00:00 - Exceptions: throw our own
-1:00:00 - Test your knowledge: Kahoot!
-1:20:00 - Intro to Debuging
-2:00:00 - Discord Live QA
+0:04:56 - Solution plan
+0:07:09 - Description of a file
+0:11:25 - Read the contents of a text file: File.ReadAllText()
+0:18:10 - Replicate File.ReadAllText() functionality
+0:29:50 - Write data to a text file: File.WriteAllText()
+0:37:20 - Replicate File.WriteAllText() functionality
+0:41:00 - Dispose unmanaged resources = closing files
+0:49:00 - Validation logic: TryParse Pattern
+0:50:55 - Get a second return value from a function: 'out' keyword
+0:57:43 - Error handling: try, catch & exceptions
+1:03:00 - Exceptions: throw custom exception
+1:16:10 - Test your knowledge: Kahoot!
+1:39:48 - Explanation of unknown questions in Kahoot 
+1:47:35 - Intro to Debuging
+2:08:24 - Discord Live QA
+ 
