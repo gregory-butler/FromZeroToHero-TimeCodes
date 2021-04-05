@@ -2,6 +2,7 @@ Timecodes
 0:00:00 - Intro: Previous lesson summary 
 0:01:13 - Let's cook some pancakes!
 0:06:44 - Arrays: The Adam & Eve of Data Structures
+0:08:20 - Strings: 'Split' method - convert a text to an array of strings
 0:11:31 - Loops: FOR - How to iterate through the elements of an array
 0:17:00 - Convert the pancakes recipe text to structured data
 0:24:12 - Equality comparison operator '=='
