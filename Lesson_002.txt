@@ -12,7 +12,7 @@ Timecodes
 0.45:42 - Combine the elements of an array to a single delimited string
 0.52:45 - Parsing numbers with a different format: Invariant Culture
 0:57:35 - QA: Difference between the Parse, TryParse and Convert.To methods
-1:02:29 - Arrays: emtpy and uninitialized.
+1:02:29 - Arrays: empty and uninitialized
 1:06:40 - Test your knowledge in a fun way: Kahoot!
 1:30:20 - Kahoot! winners
 1:31:32 - Loops: WHILE
