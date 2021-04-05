@@ -15,4 +15,3 @@ Timecodes
 1:39:48 - Explanation of unknown questions in Kahoot 
 1:47:35 - Intro to Debuging
 2:08:24 - Discord Live QA
- 
