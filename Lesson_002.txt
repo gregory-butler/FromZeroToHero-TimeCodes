@@ -2,7 +2,7 @@ Timecodes
 0:00:00 - Intro: Previous lesson summary 
 0:01:13 - Let's cook some pancakes!
 0:06:44 - Arrays: The Adam & Eve of Data Structures
-0:08:20 - Strings: 'Split' method - convert a text to an array of strings
+0:08:20 - Strings: 'Split' method - split text into words
 0:11:31 - Loops: FOR - How to iterate through the elements of an array
 0:17:00 - Convert the pancakes recipe text to structured data
 0:24:12 - Equality comparison operator '=='
@@ -11,7 +11,7 @@ Timecodes
 0:28:59 - Logic operators: || (OR)
 0:31:40 - String comparison: '.Equals' method
 0:36:18 - Arrays: linking data in 2 arrays by their index
-0.45:42 - Combine the elements of an array to a single delimited string
+0.45:42 - Strings: 'Join' method - combine parts of string into one string
 0.52:45 - Parsing numbers with a different format: Invariant Culture
 0:57:35 - QA: Difference between the Parse, TryParse and Convert.To methods
 1:02:29 - Arrays: empty and uninitialized
