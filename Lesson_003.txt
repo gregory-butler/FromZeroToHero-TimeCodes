@@ -3,9 +3,9 @@ Timecodes
 0:04:56 - Solution plan
 0:07:09 - Description of a file
 0:11:25 - Read the contents of a text file: File.ReadAllText()
-0:00:00 - Replicate File.ReadAllText() functionality
-0:00:00 - Write data to a text file: File.WriteAllText()
-0:00:00 - Replicate File.WriteAllText() functionality
+0:18:10 - Replicate File.ReadAllText() functionality
+0:29:50 - Write data to a text file: File.WriteAllText()
+0:37:20 - Replicate File.WriteAllText() functionality
 0:00:00 - Dispose managed resources
 0:00:00 - Validation logic: TryParse Pattern
 0:00:00 - Get a second return value from a function: 'out' keyword
