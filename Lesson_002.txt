@@ -10,6 +10,7 @@ Timecodes
 0:27:38 - Value Types: Bool - store TRUE or FALSE
 0:28:59 - Logic operators: || (OR)
 0:31:40 - String comparison: '.Equals' method
+0:36:18 - Arrays: linking data in 2 arrays by their index
 0.45:42 - Combine the elements of an array to a single delimited string
 0.52:45 - Parsing numbers with a different format: Invariant Culture
 0:57:35 - QA: Difference between the Parse, TryParse and Convert.To methods
@@ -17,7 +18,7 @@ Timecodes
 1:06:40 - Test your knowledge in a fun way: Kahoot!
 1:30:20 - Kahoot! winners
 1:31:32 - Loops: WHILE
-1:33:13 - Code Refactor: make code easier to undestand
+1:33:13 - Code Refactor: make code easier to read and undestand
 1:41:11 - Lesson summary 
 1:45:11 - QA Live on Discord
 2:00:00 - The End
