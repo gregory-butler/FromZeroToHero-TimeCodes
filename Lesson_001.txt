@@ -1,5 +1,5 @@
 Timecodes 
-0:00:00 - Intro 
+0:00:00 - Introduction to the course
 0:00:49 - Bootcamp curriculum 
 0:07:59 - Visual Studio: First project 
 0:12:24 - Write our own code 
