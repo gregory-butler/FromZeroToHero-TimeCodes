@@ -1,5 +1,5 @@
 Timecodes 
-0:00:00 - Intro: Today's Lesson / "Control Flow, Array and string"
+0:00:00 - Intro: Today's Lesson (#2) "Control Flow, Array and string"
 0:01:13 - Let's cook some pancakes!
 0:06:44 - Arrays: The Adam & Eve of Data Structures
 0:08:20 - Strings: 'Split' method - split text into words
