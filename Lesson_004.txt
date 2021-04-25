@@ -1,30 +1,30 @@
-00:00:00 - Intro: Today's Lesson / Client-Side
-00:01:10 - Lesson-3 summary: "Files, error handling and debugging"
-00:03:57 - Front-end vs. Back-end
-00:05:17 - Two-Tier Structure / Client-Server / WinForms Project
-00:07:32 - What is a form?
-00:08:16 - Beauty of WinForms: Drag and Drop
-00:08:40 - Student Questions #1
-00:10:35 - Explanation of process and WinForms
-00:11:43 - Adding RichTextBox and Button
-00:16:33 - How to make buttons work?
-00:18:23 - Refactor the codes in last three lessons into a class library
-00:22:30 - Reminder: The purpose of this lesson is "understanding the concept"
-00:23:43 - Make the code accessible from this project
-00:25:36 - Defining "Convert" Button
-00:29:05 - How to read a file from WinForms application?
-00:34:27 - Student Questions #2
-00:36:32 - Make WinForm properties fixed or scalable 
-00:44:08 - Adding and implementation of RadioButton and GroupBox
-00:55:43 - Figure out the problem and build an algorithm
-01:09:45 - Testing the code #1 (Failed)
-01:11:00 - See what's wrong #1 (Debug)
-01:13:08 - Found the bug #1 -value needs to be updated-
-01:13:21 - Testing the code #2 (Fixed #1 but a new bug)
-01:14:18 - See what's wrong #2 (Little test + Debug)
-01:17:27 - Found the bug #2 -format difference-
-01:24:05 - Testing the code #3 (Succeeded)
-01:24:35 - End of the lesson - Brief explanation of the completed project
-01:26:03 - Student Questions #3
-01:31:05 - Test your knowledge: Kahoot!
-01:46:19 - Lesson-4 summary - End of the first month - The next month plan
+0:00:00 - Intro: Lesson-4 / Client-Side / "WinForms"
+0:01:10 - Lesson-3 summary: "Files, error handling and debugging"
+0:03:57 - Front-end vs. Back-end
+0:05:17 - Two-Tier Structure / Client-Server / WinForms Project
+0:07:32 - What is a form?
+0:08:16 - Beauty of WinForms: Drag and Drop
+0:08:40 - Student Questions #1
+0:10:35 - Explanation of process and WinForms
+0:11:43 - Adding RichTextBox and Button
+0:16:33 - How to make buttons work?
+0:18:23 - Refactor the codes in last three lessons into a class library
+0:22:30 - Reminder: The purpose of this lesson is "understanding the concept"
+0:23:43 - Make the code accessible from this project
+0:25:36 - Defining "Convert" Button
+0:29:05 - How to read a file from WinForms application?
+0:34:27 - Student Questions #2
+0:36:32 - Make WinForm properties fixed or scalable 
+0:44:08 - Adding and implementation of RadioButton and GroupBox
+0:55:43 - Figure out the problem and build an algorithm
+1:09:45 - Testing the code #1 (Failed)
+1:11:00 - See what's wrong #1 (Debug)
+1:13:08 - Found the bug #1 -value needs to be updated-
+1:13:21 - Testing the code #2 (Fixed #1 but a new bug)
+1:14:18 - See what's wrong #2 (Little test + Debug)
+1:17:27 - Found the bug #2 -format difference-
+1:24:05 - Testing the code #3 (Succeeded)
+1:24:35 - End of the lesson - Brief explanation of the completed project
+1:26:03 - Student Questions #3
+1:31:05 - Test your knowledge: Kahoot!
+1:46:19 - Lesson-4 summary - End of the first month - The next month plan
