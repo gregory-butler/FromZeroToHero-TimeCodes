@@ -1,5 +1,5 @@
-0:00:00 - Intro: Lesson-4 / Client-Side / "WinForms"
-0:01:10 - Lesson-3 summary: "Files, error handling and debugging"
+0:00:00 - Intro: Today's Lesson (#4) Client-Side "WinForms"
+0:01:10 - Previous lesson summary (#3) "Files, error handling and debugging"
 0:03:57 - Front-end vs. Back-end
 0:05:17 - Two-Tier Structure / Client-Server / WinForms Project
 0:07:32 - What is a form?
