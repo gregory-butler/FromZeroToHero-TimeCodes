@@ -1,6 +1,6 @@
 Timecodes
-0:00:00 - Intro: Today's Lesson / "Files, error handling and debugging"
-0:00:26 - Lesson-3 summary: "Control Flow, Array and string"
+0:00:00 - Intro: Today's Lesson (#3) "Files, error handling and debugging"
+0:00:26 - Previous lesson summary (#2) "Control Flow, Array and string"
 0:04:56 - Solution plan
 0:07:09 - Description of a file
 0:11:25 - Read the contents of a text file: File.ReadAllText()
