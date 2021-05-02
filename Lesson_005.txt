@@ -1,0 +1,41 @@
+0:00:00 - A little preparation
+0:01:17 - Introduction to the lesson
+0:03:34 - The project for this month: "Online Shopping List"
+0:06:26 - What is HTPP?
+0:07:16 - Illustration of HTTP: Developer Console
+0:08:19 - HTTP Requests
+0:12:48 - Some Web Services
+0:14:39 - An Example of RESTful API 
+0:16:39 - Postman
+0:18:36 - Workspace is Solution; Collection is Project for .NET
+0:19:02 - Some HTPP request methods (aka HTPP verbs)
+0:20:27 - Using HTTP POST (Example #1)
+0:21:30 - What is JSON?
+0:23:33 - HTTP Status Codes: 200 OK
+0:26:41 - 405 Method Not Allowed
+0:28:24 - 500 Internal Server Error
+0:30:28 - HTTP headers
+0:34:43 - Let's summarize what we know so far (#1)
+0:36:51 - Let's move into a more complex API (Example #2)
+0:41:52 - Attention! Do not share your API keys if it is important
+0:42:29 - How to secure API keys?
+0:45:54 - Testing HTTP GET request
+0:47:58 - Illustration of RESTful services
+0:52:26 - Creating your own web API in ASP.NET Core through Visual Studio 
+0:55:37 - API Controller - Attributes
+0:58:13 - ControllerBase and starting out the coding: Shopping List
+1:04:54 - Using Postman for HTTP POST request
+1:07:40 - Let's finish implemeting the Create method
+1:08:44 - Using Lists instead of Arrays
+1:11:03 - Implemeting Get method and testing HTTP GET request in Postman
+1:12:13 - Problem (#1) -specifying the attributes that we forgot to add before-
+1:16:54 - Problem (#2) -use status codes instead of throw exceptions-
+1:19:11 - Controller action return type: IActionResult
+1:21:51 - Problem (#3) -JSON was empty; use properties-
+1:30:05 - Summarizing what we just did (#2)
+1:33:49 - Let's create a list of items 
+1:35:42 - Implementing Patch method and testing HTTP PATCH request in Postman
+1:42:59 - Implementing Put method and testing HTTP PUT request in Postman
+1:51:01 - Showing the difference between PUT and PATCH
+1:51:52 - Implementing Delete method and testing HTTP DELETE request in Postman
+1:54:47 - End of The Lesson - Summary and getting questions
