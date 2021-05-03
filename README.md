@@ -11,4 +11,6 @@ This repository is a place for adding timestamps into C# Bootcamp lessons which 
 **Lesson 2:** Control flow, array and string / [YouTube video](https://www.youtube.com/watch?v=l8qhUB80NaA) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Control-Flow,-Array-and-string)<br>
 **Lesson 3:** Files, error handling and debugging / [YouTube video](https://www.youtube.com/watch?v=6bckEKwYAns) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Files,-error-handling-and-debugging)<br>
 **Lesson 4:** WinForms / [YouTube video](https://www.youtube.com/watch?v=RVUHDYUqi2A) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Frontend-using-WinForms)<br>
-**Lesson 5:** RESTful, objects and JSON / [YouTube video](https://github.com/iirccm/FromZeroToHero-TimeCodes-1) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/RESTful,-Objects-and-JSON)<br>
+**Lesson 5:** RESTful, objects and JSON / [YouTube video](https://www.youtube.com/watch?v=JAPQ_XbMLww) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/RESTful,-Objects-and-JSON)<br>
+**Lesson 6:** Code versioning / [YouTube video](https://www.youtube.com/watch?v=xTcba__xhbU) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Code-versioning)<br>
+**Lesson 7:** To be added soon...
