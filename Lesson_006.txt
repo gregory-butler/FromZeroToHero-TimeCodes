@@ -1,0 +1,30 @@
+0:00:00 - Intro
+0:01:50 - What's code versioning?
+0:03:15 - Git & GitHub
+0:04:18 - Git Console (Bash)
+0:06:20 - Git & Files
+0:09:30 - Recap of what we know 
+0:10:04 - Crating repository on GitHub 
+0:11:00 - Clone your repository to your local machine - Git Bash
+0:12:00 - Adding files to repo - git status, git add 
+0:15:00 - Clone your repository to your local machine - Visual Studio
+0:17:20 - Working directories
+0:19:55 - Committing changes - git commit -m "Message"
+0:26:00 - Check commit history - git log
+0:28:50 - Push files to GitHub - git push
+0:30:10 - Change happened on remote repository and not on you local one - git fetch, git merge 
+0:33:10 - Fetch and merge in one command - git pull
+0:37:18 - Ignore files in local repository - .gitignore 
+0:39:25 - Git fetch, merge and pull recap
+0:40:20 - Branches
+0:45:35 - Merging branches (Again) 
+0:45:55 - Merge conflicts
+0:50:55 - Git in Visual Studio
+0:54:40 - Pull request and Forks - needed for HW since now
+1:01:20 - Keep forks up to date - in Visual Studio
+1:07:30 - How to make good pull requests?
+1:14:10 - Breaking changes and how to fix them
+1:36:20 - Introduction to the TortoiseGit 
+1:37:00 - How you'll do your HW
+1:42:50 - Remove commits - resets soft/mixed/hard 
+1:46:00 - Other git tools 
