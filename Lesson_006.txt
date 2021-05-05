@@ -4,7 +4,7 @@
 0:04:18 - Git Console (Bash)
 0:06:20 - Git & Files
 0:09:30 - Recap of what we know 
-0:10:04 - Crating repository on GitHub 
+0:10:04 - Creating repository on GitHub 
 0:11:00 - Clone your repository to your local machine - Git Bash
 0:12:00 - Adding files to repo - git status, git add 
 0:15:00 - Clone your repository to your local machine - Visual Studio
