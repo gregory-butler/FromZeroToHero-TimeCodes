@@ -1,0 +1,12 @@
+0:00:00 - Intro
+0:01:35 - Classes & Objects
+0:04:00 - Fields & Properties
+0:06:34 - Creating method to get random item
+0:12:00 - Object initialization
+0:14:40 - Object Oriented Programming 
+0:16:00 - 1st pillar of OOP - Encapsulation (Grouping related data together) 
+0:22:55 - Applying encapsulation to our code
+0:25:00 - Modules & Services 
+0:27:00 - Splitting code to modules & services
+1:02:10 - 2nd pillar of OOP - Inheritance (Relations between child and parent classes)
+1:03:50 - Applying tax system on shopping lists
