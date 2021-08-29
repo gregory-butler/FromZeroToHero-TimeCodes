@@ -1,0 +1,9 @@
+0:00:00 - Intro
+0:02:13 - Using LINQ
+0:06:40 - Example #2
+0:10:53 - Refactor the code
+0:12:55 - What is IEnumerable?
+0:15:24 - Creating a new extension
+0:19:25 - Testing the function
+0:32:13 - Dictionary
+0:40:56 - Generic constraints

@@ -1,0 +1,21 @@
+0:00:00 - Intro
+0:00:36 - Illustration: What is a Depedency?
+0:04:38 - Dependency in a programming sense
+0:08:29 - Dependency Inversion Principle
+0:10:15 - Dependency Injection
+0:12:56 - Implementation of the code: Interface
+0:16:04 - Inject Abstractions
+0:23:07 - Adding Singleton
+0:28:58 - Inject #2
+0:34:40 - Debugging
+0:38:00 - Creating a service
+0:44:38 - Inject #3
+0:47:44 - Testing if it works
+0:49:41 - Going back to wiki
+0:53:16 - Explaining IServiceCollection
+0:54:30 - Explaining middleware
+0:55:25 - Back to wiki #2
+0:58:32 - How to manage dependencies?
+0:59:30 - Extension methods
+1:03:50 - What is the purpose?
+1:08:05 - End of the lesson

@@ -1,0 +1,11 @@
+0:00:00 - Intro
+0:01:47 - Why should you learn testing?
+0:05:17 - Cost Diagram
+0:07:24 - Testing Frameworks
+0:08:45 - Testing our code
+0:10:55 - First example
+0:18:14 - Second example
+0:42:57 - Third example
+0:51:48 - Fourth example
+1:01:38 - Test Driven Development (TDD)
+1:14:54 - Types of Software Testing
