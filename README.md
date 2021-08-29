@@ -15,3 +15,5 @@ This repository is a place for adding timestamps into C# Bootcamp lessons which 
 **Lesson 6:** Code versioning / [YouTube video](https://www.youtube.com/watch?v=xTcba__xhbU) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Code-versioning)<br>
 **Lesson 7:** OOP / [YouTube video](https://www.youtube.com/watch?v=5Q6c27SzcDE&t=4955s) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/OOP)<br>
 **Lesson 8:** Understanding WebApi and Dependency Injection / [YouTube video](https://www.youtube.com/watch?v=qUsWkZDztoI&list=PLbwOopTjJke49hTBrmz8ayxQj_Zro4zrg) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/Understanding-WebApi-and-Dependency-Injection)<br>
+**Lesson 9:** Test Driven Development (TDD) / [YouTube video](https://www.youtube.com/watch?v=EWB3UHf-fe4) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/TDD)<br>
+**Lesson 10:** LINQ & collections / [YouTube video](https://www.youtube.com/watch?v=wTmY3QeOFsA) **+** [Wiki page](https://github.com/csinn/CSharp-From-Zero-To-Hero-v2/wiki/LINQ-and-Collections)<br>
